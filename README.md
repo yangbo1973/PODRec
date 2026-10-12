@@ -16,9 +16,7 @@ The Taobao and Tmall datasets can be downloaded from the BCIPM model repository:
 
 https://github.com/MingshiYan/BIPN
 
-The `data.zip` file in this repository contains the required data. After downloading, please run `data_process.py` in the corresponding data directory for preprocessing, following the instructions of BIPN.
-
-
+The `data.zip` file in this repository contains the required data. 
 ### Implementation
 
 ##### Set up a new environment with the following requirements.
